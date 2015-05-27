@@ -1,0 +1,22 @@
+{
+  "name": "kaipoint",
+  "version": "1.0.0",
+  "description": "kaipoint source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyootai/kaipoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyootai/kaipoint/issues"
+  },
+  "homepage": "https://github.com/jyootai/kaipoint",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
