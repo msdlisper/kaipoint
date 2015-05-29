@@ -5,6 +5,7 @@ app.get('/', function(req, res){
   res.send("Hello Node");
 });
 
+//测试用例
 app.listen(3000, function(){
   console.log('please open http://localhost:3000, app is listening at port 3000');
 })
