@@ -19,5 +19,6 @@ This is the source code of Kaipoint website
 
 * [Node] (https://github.com/joyent/node)
 * [MongoDb] (https://github.com/mongodb/mongo)
-* [Sea.js](https://github.com/seajs/seajs) ([MIT License](https://github.com/seajs/seajs/blob/master/LICENSE.md))
-* [FontAwesome](https://github.com/FortAwesome/Font-Awesome/) ([CC BY 3.0 License](http://creativecommons.org/licenses/by/3.0/))
+* [React.js](http://facebook.github.io/react/docs/getting-started.html) 
+* [amazeui](http://amazeui.org)
+* [FontAwesome](https://github.com/FortAwesome/Font-Awesome/) 
